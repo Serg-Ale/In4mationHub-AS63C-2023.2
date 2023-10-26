@@ -1,4 +1,4 @@
-## Requisitos Funcionais para um Fórum Inf4Mation Hub (UTFPR):
+## Requisitos Funcionais para o Fórum Inf4Mation Hub (UTFPR):
 
 - **[RF01]** O sistema deve permitir que os usuários criem contas diferenciadas para estudantes e professores da UTFPR.
 - **[RF02]** O sistema deve permitir que os usuários publiquem artigos acadêmicos para compartilhamento com outros membros da comunidade acadêmica.
