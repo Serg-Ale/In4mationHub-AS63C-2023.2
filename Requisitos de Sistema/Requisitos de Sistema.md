@@ -35,4 +35,4 @@
 - **[RNF13]** Deve haver uma política clara de uso aceitável para orientar o comportamento dos usuários e garantir um ambiente respeitoso no fórum.
 - **[RNF14]** O sistema deve permitir a integração com outras plataformas acadêmicas, como sistemas de gestão de aprendizado (LMS) e bibliotecas digitais.
 - **[RNF15]** Deve haver um sistema de recuperação de senha seguro e eficaz para os usuários que esquecerem suas credenciais de login.
-- **[RNF16]** O sistema deve ser atualizado regularmente para corrigir bugs, melhorar o desempenho e adicionar novos recursos, mantendo-se atualizado com as necessidades da comunidade acadêmica.
+- **[RNF16]** O sistema deve ser atualizado regularmente para corrigir bugs, melhorar o desempenho e adicionar recursos, mantendo-se atualizado com as necessidades da comunidade acadêmica.
