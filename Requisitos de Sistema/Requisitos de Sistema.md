@@ -15,6 +15,7 @@
 - **[RF14]** Deve existir um sistema de pontuação para usuários baseado na qualidade e quantidade de suas contribuições, incentivando a participação ativa.
 - **[RF15]** O sistema deve suportar a inclusão de multimídia nos posts, como imagens, vídeos e documentos PDF.
 - **[RF16]** Os usuários devem poder criar e gerenciar eventos acadêmicos, como palestras e workshops, diretamente no fórum.
+- **[RF17]** Os usuários poderão seguir temas/tópicos específicos sem a necessidade de seguirem os perfis para serem notificados.
 
 
 ## Requisitos Não Funcionais para o Fórum Inf4Mation Hub(UTFPR):
