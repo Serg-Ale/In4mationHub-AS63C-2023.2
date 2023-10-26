@@ -1,4 +1,4 @@
-# Desenvolvimento-Agil
+# Desenvolvimento-Ágil
 Repositório criado para a disciplina de Desenvolvimento Ágil do curso de Análise e Desenvolvimento de Sistemas - UTFPR-CP
 
 ## Membros do Grupo
