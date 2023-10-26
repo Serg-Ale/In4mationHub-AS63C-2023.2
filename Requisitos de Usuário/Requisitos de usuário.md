@@ -20,7 +20,7 @@
 
 10. **Como Professor,** gostaria de tirar as dúvidas dos meus alunos através da plataforma.
 
-11. **Como Usuário,** gostaria de poder logar através do email institucional e senha.
+11. **Como Usuário,**  gostaria de poder logar através do email institucional e senha.
 
 12. **Como Professor,** gostaria de me destacar de alunos comuns através de um selo de Graduando ou Professor.
 
