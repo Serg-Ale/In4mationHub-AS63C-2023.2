@@ -4,7 +4,7 @@
 
 2. **Como Usuário,** gostaria de poder salvar posts ou artigos interessantes em uma lista de favoritos para acesso fácil posteriormente.
 
-3. **Como Usuário,** gostaria de poder visualizar estatísticas sobre a popularidade dos meus posts, incluindo o número de visualizações, curtidas e compartilhamentos.
+3. **Como Usuário,** gostaria de poder visualizar estatísticas sobre a popularidade dos meus posts, incluindo o número de visualizações e curtidas 
 
 4. **Como Professor,** gostaria de poder organizar posts em categorias específicas, facilitando a navegação dos alunos por temas ou disciplinas.
 
