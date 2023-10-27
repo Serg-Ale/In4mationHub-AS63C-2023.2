@@ -22,6 +22,6 @@
 
 11. **Como Usuário,**  gostaria de poder logar através do email institucional e senha.
 
-12. **Como Professor,** gostaria de me destacar de alunos comuns através de um selo de Graduando ou Professor.
+12. **Como Professor,** gostaria de me destacar de alunos comuns através de um selo de Professor.
 
 13. **Como instituiçào de ensino,** gostaria de ter uma área de destaque para anúncios.
